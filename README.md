@@ -20,7 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayrat-rahmatulayev-420003283/?locale=en_US)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayratrahmatulayev8@gmail.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harrym9&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!---
 harrym9/harrym9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
